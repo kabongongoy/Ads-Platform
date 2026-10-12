@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 *.db
 .env
+.terraform/
+*.tfstate
+*.tfstate.backup
+/aws/
